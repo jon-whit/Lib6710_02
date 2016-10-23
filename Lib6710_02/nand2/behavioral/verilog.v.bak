@@ -1,0 +1,9 @@
+//Verilog HDL for "Lib6710_02", "nand2" "behavioral"
+
+
+module nand2 ( Y, A, B );
+
+  input A;
+  output Y;
+  input B;
+endmodule
